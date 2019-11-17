@@ -1,5 +1,5 @@
 <?php
-// https://atcoder.jp/contests/abc144/tasks/abc043_a
+// https://atcoder.jp/contests/abc043/tasks/abc043_a
 // 一人目には1個、二人目には2個、3人目には3個のアメをプレゼントする。
 // 必要なアメの数はいくつ？
 

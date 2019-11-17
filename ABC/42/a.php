@@ -1,5 +1,5 @@
 <?php
-// https://atcoder.jp/contests/abc144/tasks/abc042_a
+// https://atcoder.jp/contests/abc042/tasks/abc042_a
 //整数A,B,Cが5,7,5の組み合わせであるかどうか判定
 
 
